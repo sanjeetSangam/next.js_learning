@@ -1,4 +1,10 @@
 import { notFound } from "next/navigation";
+type ParamsType = {
+	params: {
+		productId: string;
+		reviewId: string;
+	};
+};
 
 const page = ({ params }: ParamsType) => {
 	if (parseInt(params.reviewId) > 1000) {

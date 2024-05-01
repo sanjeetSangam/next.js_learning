@@ -1,3 +1,9 @@
+type ParamsType = {
+	params: {
+		productId: string;
+	};
+};
+
 const page = ({ params }: ParamsType) => {
 	return (
 		<div>
