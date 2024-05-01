@@ -1,4 +1,10 @@
+import { notFound } from "next/navigation";
+
 const page = ({ params }: ParamsType) => {
+	if (parseInt(params.reviewId) > 1000) {
+		notFound();
+	}
+
 	return (
 		<div>
 			<h1>Prudct Number : {params.productId}</h1>
