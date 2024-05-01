@@ -1,4 +1,11 @@
+"use client";
+
 import { notFound } from "next/navigation";
+
+// const getRandomInteger = (count: number) => {
+// 	return Math.floor(Math.random() * count);
+// };
+
 type ParamsType = {
 	params: {
 		productId: string;
@@ -7,9 +14,14 @@ type ParamsType = {
 };
 
 const page = ({ params }: ParamsType) => {
+	// const random: number = getRandomInteger(2);
 	if (parseInt(params.reviewId) > 1000) {
 		notFound();
 	}
+
+	// if (random === 1) {
+	// 	throw new Error("Error Loading");
+	// }
 
 	return (
 		<div>
