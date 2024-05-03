@@ -1,8 +1,8 @@
 import Card from "@/components/card";
 import React from "react";
 
-const Revenue = () => {
+const DefaultRevenue = () => {
 	return <Card>Revenue</Card>;
 };
 
-export default Revenue;
+export default DefaultRevenue;

@@ -15,7 +15,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
 			<body>
 				<header style={{ padding: "20px", background: "gray" }}>Header</header>
 				{children}
-				<footer style={{ padding: "20px", background: "gray" }}>Footer</footer>
+				<footer style={{ padding: "20px", background: "teal", marginTop: "2rem" }}>
+					Footer
+				</footer>
 			</body>
 		</html>
 	);

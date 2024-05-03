@@ -2,15 +2,15 @@ import Card from "@/components/card";
 import Link from "next/link";
 import React from "react";
 
-const Notifications = () => {
+const Archieved = () => {
 	return (
 		<Card>
 			<div>
-				<Link href={"/dashboard/archived"}>Archived</Link>
+				<Link href={"/dashboard"}>Default</Link>
 			</div>
-			<div>Notifications</div>
+			<div>Archived</div>
 		</Card>
 	);
 };
 
-export default Notifications;
+export default Archieved;
