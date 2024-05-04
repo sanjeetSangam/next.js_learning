@@ -1,0 +1,154 @@
+{
+	"courses": [
+		{
+			"id": 1,
+			"title": "Guitar Basics: Learn to Play the Guitar",
+			"slug": "guitar-basics-learn-to-play-the-guitar",
+			"description": "Learn the basics of playing the guitar from scratch. This course covers everything from holding the guitar to playing your first chords and songs.",
+			"price": 49.99,
+			"instructor": "John Smith",
+			"isFeatured": true,
+			"image": "https://images.pexels.com/photos/321384/pexels-photo-321384.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+		},
+		{
+			"id": 2,
+			"title": "Piano Fundamentals: Mastering the Piano",
+			"slug": "piano-fundamentals-mastering-the-piano",
+			"description": "Master the fundamentals of playing the piano with this comprehensive course. Suitable for beginners and those looking to refresh their skills.",
+			"price": 59.99,
+			"instructor": "Emily Johnson",
+			"isFeatured": false,
+			"image": "https://images.pexels.com/photos/435917/pexels-photo-435917.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+		},
+		{
+			"id": 3,
+			"title": "Singing 101: Vocal Training for Beginners",
+			"slug": "singing-101-vocal-training-for-beginners",
+			"description": "Unlock your vocal potential with this beginner-friendly singing course. Learn proper breathing, pitch, and techniques to develop your voice.",
+			"price": 39.99,
+			"instructor": "Sarah Davis",
+			"isFeatured": true,
+			"image": "https://images.pexels.com/photos/1082321/pexels-photo-1082321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+		},
+		{
+			"id": 4,
+			"title": "Music Theory Made Easy",
+			"slug": "music-theory-made-easy",
+			"description": "Demystify music theory with this easy-to-follow course. Perfect for musicians of all levels, from beginners to advanced.",
+			"price": 29.99,
+			"instructor": "Michael Lee",
+			"isFeatured": false,
+			"image": "https://images.pexels.com/photos/271690/pexels-photo-271690.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+		},
+		{
+			"id": 5,
+			"title": "Drumming Essentials: Learn Drumming Basics",
+			"slug": "drumming-essentials-learn-drumming-basics",
+			"description": "Start your drumming journey with this comprehensive course. Learn essential drumming techniques and rhythms to play along with your favorite songs.",
+			"price": 44.99,
+			"instructor": "David Brown",
+			"isFeatured": true,
+			"image": "https://images.pexels.com/photos/417072/pexels-photo-417072.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+		},
+		{
+			"id": 6,
+			"title": "Bass Guitar Mastery",
+			"slug": "bass-guitar-mastery",
+			"description": "Become a master of the bass guitar with this in-depth course. Learn bass techniques, scales, and grooves to play in any style.",
+			"price": 54.99,
+			"instructor": "Alex Thompson",
+			"isFeatured": false,
+			"image": "https://images.pexels.com/photos/1660875/pexels-photo-1660875.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+		},
+		{
+			"id": 7,
+			"title": "Songwriting Workshop: Craft Your Own Songs",
+			"slug": "songwriting-workshop-craft-your-own-songs",
+			"description": "Unlock your creativity and learn to craft your own songs. This course covers song structure, lyrics, melody, and more.",
+			"price": 49.99,
+			"instructor": "Rachel White",
+			"isFeatured": true,
+			"image": "https://images.pexels.com/photos/4399747/pexels-photo-4399747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+		},
+		{
+			"id": 8,
+			"title": "Jazz Piano Masterclass",
+			"slug": "jazz-piano-masterclass",
+			"description": "Dive into the world of jazz piano with this masterclass. Learn jazz theory, improvisation, and classic jazz standards.",
+			"price": 64.99,
+			"instructor": "Daniel Evans",
+			"isFeatured": false,
+			"image": "https://images.pexels.com/photos/2088477/pexels-photo-2088477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+		},
+		{
+			"id": 9,
+			"title": "Introduction to Music Production",
+			"slug": "introduction-to-music-production",
+			"description": "Learn the basics of music production from recording to mixing and mastering. Perfect for aspiring producers and musicians.",
+			"price": 59.99,
+			"instructor": "Chris Adams",
+			"isFeatured": true,
+			"image": "https://images.pexels.com/photos/313691/pexels-photo-313691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+		},
+		{
+			"id": 10,
+			"title": "Violin for Beginners",
+			"slug": "violin-for-beginners",
+			"description": "Start your journey with the violin with this beginner-friendly course. Learn proper technique, posture, and basic tunes.",
+			"price": 49.99,
+			"instructor": "Sophia Martinez",
+			"isFeatured": false,
+			"image": "https://images.pexels.com/photos/2002726/pexels-photo-2002726.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+		},
+		{
+			"id": 11,
+			"title": "Rock Guitar Techniques",
+			"slug": "rock-guitar-techniques",
+			"description": "Master rock guitar techniques with this intensive course. Learn riffs, solos, and techniques from iconic rock songs.",
+			"price": 54.99,
+			"instructor": "Mark Johnson",
+			"isFeatured": true,
+			"image": "https://images.pexels.com/photos/1663462/pexels-photo-1663462.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+		},
+		{
+			"id": 12,
+			"title": "Classical Guitar Masterclass",
+			"slug": "classical-guitar-masterclass",
+			"description": "Explore the beautiful world of classical guitar with this masterclass. Learn classical techniques, repertoire, and interpretation.",
+			"price": 64.99,
+			"instructor": "Julia Brown",
+			"isFeatured": false,
+			"image": "https://images.pexels.com/photos/2026246/pexels-photo-2026246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+		},
+		{
+			"id": 13,
+			"title": "Advanced Vocal Training",
+			"slug": "advanced-vocal-training",
+			"description": "Take your vocal skills to the next level with this advanced training course. Work on range, dynamics, and advanced vocal techniques.",
+			"price": 59.99,
+			"instructor": "Robert Adams",
+			"isFeatured": true,
+			"image": "https://images.pexels.com/photos/4861047/pexels-photo-4861047.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+		},
+		{
+			"id": 14,
+			"title": "Funk Bass Grooves",
+			"slug": "funk-bass-grooves",
+			"description": "Learn the funky bass grooves that underpin funk music. This course covers slap technique, groove building, and playing in the pocket.",
+			"price": 49.99,
+			"instructor": "Marcus Johnson",
+			"isFeatured": false,
+			"image": "https://images.pexels.com/photos/3845395/pexels-photo-3845395.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+		},
+		{
+			"id": 15,
+			"title": "Blues Harmonica Basics",
+			"slug": "blues-harmonica-basics",
+			"description": "Discover the bluesy world of harmonica playing. Learn basic techniques, bending notes, and playing along with blues tunes.",
+			"price": 39.99,
+			"instructor": "Paul Smith",
+			"isFeatured": true,
+			"image": "https://images.pexels.com/photos/2909564/pexels-photo-2909564.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+		}
+	]
+}
