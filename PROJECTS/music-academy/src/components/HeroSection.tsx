@@ -12,6 +12,8 @@ const HeroSection = () => {
 				</h1>
 				<p className=" mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto">
 					Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt, debitis.
+					Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt, debitis.
+					Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt, debitis.
 					Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit, assumenda!
 				</p>
 
